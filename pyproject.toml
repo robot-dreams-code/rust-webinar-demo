@@ -1,0 +1,11 @@
+[project]
+name = "rust-webinar-demo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Anton Zub", email = "azb.0x7dc@gmail.com" }
+]
+requires-python = ">=3.11"
+dependencies = []
+
