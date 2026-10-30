@@ -1,0 +1,11 @@
+[package]
+name = "logstats_rs"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "logstats_rs"
+crate-type = ["cdylib"]
+
+[dependencies]
+pyo3 = { version = "0.30", features = ["extension-module"] }
